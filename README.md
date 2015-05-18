@@ -58,6 +58,7 @@ Get thousands of pageviews. Submit your product / service to
   - http://inc42.com/startup-submission/
   - http://startupbook.co/
   - http://www.startupproject.org/submit-your-startup/
+  - http://appmit.com/
   - Additionally submit your product here if it is / has a mobile app
     - http://www.textmeapps.com/
     - http://webapprater.com/
@@ -67,6 +68,8 @@ Get thousands of pageviews. Submit your product / service to
     - http://www.appappeal.com/contact/suggest
     - https://maqtoob.com/
     - https://www.discovercloud.com/
+    - http://www.cloudshowplace.com/add-your-company/
+    - http://cloudbase3.com/it-channel-partner-listing/
   - Got a product video? Submit your video to
     - http://startup-videos.com/
     - http://www.coolstartupbro.com/
@@ -79,3 +82,9 @@ Get thousands of pageviews. Submit your product / service to
   - http://www.deutsche-startups.de/kontakt/kontakt/
 - For french startups
   - http://www.rudebaguette.com/
+
+## Curious if it works?
+I am working on a new product / service (web & iOS App) right now. This is my first time that I will launch something with a strategy behind it. So this is why I did the whole research.
+I´ll use this list exact list to get the word out. I will try to track every lead, track the amount of time I spend while going through this list and if you are interested I will keep you updated via [Twitter](https://twitter.com/justawebguy).
+
+Somehow this is a big experiment. I hope I will / we will learn something here.
