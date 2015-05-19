@@ -5,8 +5,8 @@ This is "The Unfair Advantage (Pre)Launch List" for entrepreneurs and startups. 
 I hope it will save you some hours of research for your next launch. Feel free to contribute to this list.
 
 ## Before launch / while in BETA
+**Crowdsource everything!**
 
-### Services
 - Ask questions, get feedback, find co-founders, beta testers or other people for your service.
   - https://blnkk.com/
   - http://www.ideasquares.com/
@@ -28,8 +28,7 @@ I hope it will save you some hours of research for your next launch. Feel free t
 
 ## Launch day
 
-### Services
-Get thousands of pageviews. Submit your product / service to
+**It´s "creating BUZZZ time"!** Get thousands of pageviews. Submit your product / service to
 - International
   - http://www.producthunt.com/
   - http://launchingnext.com/
@@ -84,7 +83,10 @@ Get thousands of pageviews. Submit your product / service to
   - http://www.rudebaguette.com/
 
 ## Curious if it works?
+I hope so.. we will see.
+
 I am working on a new product / service (web & iOS App) right now. This is my first time that I will launch something with a strategy behind it. So this is why I did the whole research.
-I´ll use this list exact list to get the word out. I will try to track every lead, track the amount of time I spend while going through this list and if you are interested I will keep you updated via [Twitter](https://twitter.com/justawebguy).
+
+I´ll use this exact list to get the word out. I will try to track every lead, track the amount of time I spend while going through this list and if you are interested I will keep you updated via [Twitter](https://twitter.com/justawebguy).
 
 Somehow this is a big experiment. I hope I will / we will learn something here.
