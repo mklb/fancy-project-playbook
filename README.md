@@ -72,6 +72,7 @@ I hope it will save you some hours of research for your next launch. Feel free t
   - Got a product video? Submit your video to
     - http://startup-videos.com/
     - http://www.coolstartupbro.com/
+    - http://www.founderfox.io/
   - Add your startup to the global startup map: http://startupblink.com/
   - Tell the world how awesome your startup culture is: http://www.insidestartups.org/
   - Rank your startup: http://www.startupranking.com/
