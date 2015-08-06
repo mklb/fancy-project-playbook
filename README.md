@@ -12,8 +12,6 @@ I hope it will save you some hours of research for your next launch. Feel free t
   - http://www.ideasquares.com/
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
-- Create an "early stage" website without coding in minutes and collect emails
-  - https://www.instapage.com/
 - Create a waiting list for your product
   - https://www.waitlisted.co/
 - Get beta users
