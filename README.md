@@ -79,6 +79,7 @@ I hope it will save you some hours of research for your next launch. Feel free t
     - http://www.founderfox.io/
   - Add your startup to the global startup map: http://startupblink.com/
   - Tell the world how awesome your startup culture is: http://www.insidestartups.org/
+  - Add your awesome startup mantra here: https://bourn.typeform.com/to/RM1KZu
   - Rank your startup: http://www.startupranking.com/
   - Find relevant journalists: https://www.hey.press/
 - For german startups
