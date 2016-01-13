@@ -21,6 +21,7 @@ I hope it will save you some hours of research for your next launch. Feel free t
   - http://www.betabound.com/
   - https://beta.techendo.com/
   - http://www.reddit.com/r/AlphaAndBetaUsers
+  - https://www.openhunt.co/ like Producthunt but more for early-stage products
 - Grow your follower-base on Twitter with: https://toolset.co/
 
 ### Articles
