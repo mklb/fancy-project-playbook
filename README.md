@@ -1,8 +1,17 @@
 # The Unfair Advantage (Pre)Launch List
 
-This is "The Unfair Advantage (Pre)Launch List" for entrepreneurs and startups. Launch your product / service the right way with this list of useful links and generate hundreds of leads. 
+This is "The Unfair Advantage (Pre)Launch List" for entrepreneurs and startups. Launch your product / service the right way with this list of useful links and generate hundreds of leads. Now including some fancy growth hacking resources, too!
 
 I hope it will save you some hours of research for your next launch. Feel free to contribute to this list.
+
+**Note:** The majority of these resources are free to use. I will mark payed resources (like some books) with this **($)** symbol.
+
+## Books on Growth Hacking
+Read these books before building / while planing your **digital** product
+
+- **($)** ["Growth Hacker Marketing: A Primer on the Future of PR, Marketing and Advertising“](http://www.amazon.de/gp/product/1591847389/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=1591847389&linkCode=as2&tag=837493-21) is a perfect intruduction to growth hacking for everyone (give this book to your manager if he doesn´t understand what you want to do / what you are talking about / why growth hacking is important / why his marketing strategy is so 2008)
+- **($)** ["Hooked: How to build habit-forming Products“](http://www.amazon.de/gp/product/0241184835/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0241184835&linkCode=as2&tag=837493-21) a great book if you are building a digital product for the consumer market
+- Study "growth hacking" with this free book: http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/
 
 ## Before launch / while in BETA
 **Crowdsource everything!**
@@ -24,10 +33,8 @@ I hope it will save you some hours of research for your next launch. Feel free t
   - https://www.openhunt.co/ like Producthunt but more for early-stage products
 - Grow your follower-base on Twitter with: https://toolset.co/
 
-### Articles
+### Usefull articles
 - Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
-- Study "growth hacking" with this free book: http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/
-
 
 ## Launch day
 
