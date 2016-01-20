@@ -88,6 +88,7 @@ Read these books before building / while planing your **digital** product
   - Add your startup to the global startup map: http://startupblink.com/
   - Tell the world how awesome your startup culture is: http://www.insidestartups.org/
   - Add your awesome startup mantra here: https://bourn.typeform.com/to/RM1KZu
+  - Share what products you are using at your startup: https://siftery.com/
   - Rank your startup: http://www.startupranking.com/
   - Find relevant journalists: https://www.hey.press/
 - For german startups
