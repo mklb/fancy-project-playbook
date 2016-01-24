@@ -13,14 +13,16 @@ Read these books before building / while planing your **digital** product
 - **($)** ["Hooked: How to build habit-forming Products“](http://www.amazon.de/gp/product/0241184835/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0241184835&linkCode=as2&tag=837493-21) a great book if you are building a digital product for the consumer market
 - Study "growth hacking" with this free book: http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/
 
-## Before launch / while in BETA
-**Crowdsource everything!**
+## Before launch
+**Crowdsource everything! TM**
 
-- Ask questions, get feedback, find co-founders, beta testers or other people for your service.
-  - https://blnkk.com/
-  - http://www.ideasquares.com/
+- Test your website and get valuable feedback: http://nibbler.silktide.com/
+- Check if your username for social media is available: https://namechk.com/
+- Find the right crowdfunding platform: http://www.ideasquares.com/
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
+
+## While in BETA
 - Create a waiting list for your product
   - https://www.waitlisted.co/
 - Get beta users
@@ -32,12 +34,11 @@ Read these books before building / while planing your **digital** product
   - http://www.reddit.com/r/AlphaAndBetaUsers
   - https://www.openhunt.co/ like Producthunt but more for early-stage products
 - Grow your follower-base on Twitter with: https://toolset.co/
-
-### Usefull articles
-- Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
+- Usefull articles:
+  - Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
+  - Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
 
 ## Launch day
-
 **It´s "creating BUZZZ time"!** Get thousands of pageviews. Submit your product / service to
 
 - International
