@@ -21,10 +21,12 @@ Read these books before building / while planing your **digital** product
 - Find the right crowdfunding platform: http://www.ideasquares.com/
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
+- Design your logo: http://www.logomakerapp.com/
 
 ## While in BETA
 - Create a waiting list for your product
   - https://www.waitlisted.co/
+  - incl. website: https://www.launchrock.com 
 - Get beta users
   - http://betalist.com/
   - http://betatestershub.com/
@@ -34,9 +36,10 @@ Read these books before building / while planing your **digital** product
   - http://www.reddit.com/r/AlphaAndBetaUsers
   - https://www.openhunt.co/ like Producthunt but more for early-stage products
 - Grow your follower-base on Twitter with: https://toolset.co/
-- Usefull articles:
+- Usefull articles / guides:
   - Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
   - Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
+  - App store optimization: http://growthtower.com/the-ultimate-aso-checklist/
 
 ## Launch day
 **It´s "creating BUZZZ time"!** Get thousands of pageviews. Submit your product / service to
@@ -71,6 +74,7 @@ Read these books before building / while planing your **digital** product
   - http://startupbook.co/
   - http://www.startupproject.org/submit-your-startup/
   - http://appmit.com/
+  - http://killerstartups.com/submit-startup/
   - Additionally submit your product here if it is / has a mobile app
     - http://www.textmeapps.com/
     - http://webapprater.com/
