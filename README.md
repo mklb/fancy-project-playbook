@@ -13,15 +13,12 @@ Read these books before building / while planing your **digital** product
 - **($)** ["Hooked: How to build habit-forming Products“](http://www.amazon.de/gp/product/0241184835/ref=as_li_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=0241184835&linkCode=as2&tag=837493-21) a great book if you are building a digital product for the consumer market
 - Study "growth hacking" with this free book: http://tigertiger.co/blog/ultimate-growth-hacking-sourcebook/
 
-## Before launch
-**Crowdsource everything! TM**
-
-- Test your website and get valuable feedback: http://nibbler.silktide.com/
-- Check if your username for social media is available: https://namechk.com/
-- Find the right crowdfunding platform: http://www.ideasquares.com/
+## Usefull tools for building your startup
+- Design your logo: http://www.logomakerapp.com/
+- Royalty free music: https://musicformakers.com
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
-- Design your logo: http://www.logomakerapp.com/
+- Find the right crowdfunding platform: http://www.ideasquares.com/
 
 ## While in BETA
 - Create a waiting list for your product
@@ -35,13 +32,26 @@ Read these books before building / while planing your **digital** product
   - https://beta.techendo.com/
   - http://www.reddit.com/r/AlphaAndBetaUsers
   - https://www.openhunt.co/ like Producthunt but more for early-stage products
-- Grow your follower-base on Twitter with: https://toolset.co/
-- Usefull articles / guides:
-  - Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
-  - Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
-  - App store optimization: http://growthtower.com/the-ultimate-aso-checklist/
+- Test your website and get valuable feedback: http://nibbler.silktide.com/
+- Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/
 
-## Launch day
+## Social Media + Marketing
+- Supercharges your growth by allowing your company to seek help from your core community in exchange for rewards: http://www.rocketclub.co/
+- Check if your username for social media is available: https://namechk.com/
+- Create, schedule and publish your posts across multiple social media platforms
+  - https://kuku.io/
+  - https://buffer.com/
+- Grow your follower-base on Twitter with: https://toolset.co/
+- Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
+
+## Building an app?
+- App landingpage: http://www.applandr.com/
+- Create App store screenshots
+  - https://launchkit.io/screenshots/
+  - https://github.com/LaunchKit/SketchToAppStore
+- App store optimization: http://growthtower.com/the-ultimate-aso-checklist/
+
+## Submit your startup on launch day
 **It´s "creating BUZZZ time"!** Get thousands of pageviews. Submit your product / service to
 
 - International
