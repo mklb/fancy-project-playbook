@@ -19,8 +19,8 @@ Read these books before building / while planing your **digital** product
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
 - Find the right crowdfunding platform: http://www.ideasquares.com/
-- Awesome royality free picture search engine: http://www.sitebuilderreport.com/stock-up#q=morning&page=5
-- Website A/B testing: optimizely.com
+- Awesome royality free picture search engine: http://www.sitebuilderreport.com/stock-up
+- Website A/B testing: https://optimizely.com
 
 ## While in BETA
 - Create a waiting list for your product
