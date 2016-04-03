@@ -19,6 +19,8 @@ Read these books before building / while planing your **digital** product
 - Get design critique: http://www.reddit.com/r/design_critiques 
 - Crowdsource your new company's tagline: http://oneliners.co/
 - Find the right crowdfunding platform: http://www.ideasquares.com/
+- Awesome royality free picture search engine: http://www.sitebuilderreport.com/stock-up#q=morning&page=5
+- Website A/B testing: optimizely.com
 
 ## While in BETA
 - Create a waiting list for your product
@@ -37,12 +39,14 @@ Read these books before building / while planing your **digital** product
 
 ## Social Media + Marketing
 - Supercharges your growth by allowing your company to seek help from your core community in exchange for rewards: http://www.rocketclub.co/
+- send your press release to the masses: http://pushforpress.com/
 - Check if your username for social media is available: https://namechk.com/
 - Create, schedule and publish your posts across multiple social media platforms
   - https://kuku.io/
   - https://buffer.com/
 - Grow your follower-base on Twitter with: https://toolset.co/
 - Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
+- Design your social media content: designfeed.io
 
 ## Building an app?
 - App landingpage: http://www.applandr.com/
