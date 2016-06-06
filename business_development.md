@@ -23,3 +23,6 @@ Find the perfect domain name:
 ## Knowledge Management
 - https://getguru.com offers a nice web app and browser extension to easly access and manage knowledge
 
+## TODO tools
+- https://trello.com
+

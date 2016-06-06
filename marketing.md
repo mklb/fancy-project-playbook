@@ -14,7 +14,7 @@ Read these books before building / while planing your **digital** product
   - https://kuku.io/
   - https://buffer.com/
 - Grow your follower-base on Twitter with: https://toolset.co/
-- Design your social media content: designfeed.io
+- Design your social media content: https://designfeed.io
 
 ## Press
 - send your press release to the masses: http://pushforpress.com/
@@ -26,13 +26,16 @@ Read these books before building / while planing your **digital** product
 - App landingpage: http://www.applandr.com/
 - Create App store screenshots
   - https://launchkit.io/screenshots/
+  - https://shotbot.io
   - https://github.com/LaunchKit/SketchToAppStore
+- Create App icons for iOS and Android in all sizes: http://makeappicon.com/
 - App store optimization: http://growthtower.com/the-ultimate-aso-checklist/
 
 ## While in BETA
 - Create a waiting list for your product
   - https://www.waitlisted.co/
   - incl. website: https://www.launchrock.com 
+  - incl. contests: https://vyper.io/
 - Get beta users
   - http://betalist.com/
   - http://betatestershub.com/
