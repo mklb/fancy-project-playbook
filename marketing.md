@@ -1,4 +1,10 @@
-# Marketing
+# Marketing: The Unfair Advantage (Pre)Launch List
+
+This is "The Unfair Advantage (Pre)Launch List" for entrepreneurs and startups. Develop and Launch your product / service the right way with this list of useful links and hopefully create the next unicorn. Now including some fancy growth hacking resources, too!
+
+I hope it will save you some hours of research for your next startup and launch. Feel free to contribute to this list.
+
+**Note:** The majority (99%) of these resources are free to use. I will mark payed resources (like some books) with this **($)** symbol.
 
 ## Books on Growth Hacking
 Read these books before building / while planing your **digital** product
@@ -20,6 +26,7 @@ Read these books before building / while planing your **digital** product
 - send your press release to the masses: http://pushforpress.com/
 
 ## Email
+- Create email lists / newsletters: mailchimp.com
 - Write better emails: http://www.getvero.com/resources/guides/email-marketing-best-practices/
 
 ## Building an app?
@@ -41,6 +48,7 @@ Read these books before building / while planing your **digital** product
   - http://betatestershub.com/
   - http://earlist.co/
   - http://www.betabound.com/
+  - http://betapage.co
   - https://beta.techendo.com/
   - http://www.reddit.com/r/AlphaAndBetaUsers
   - https://www.openhunt.co/ like Producthunt but more for early-stage products

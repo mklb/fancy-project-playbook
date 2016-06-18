@@ -7,4 +7,4 @@
 - https://musicformakers.com
 
 ## Royality free pictures
-- Awesome royality free picture search engine: http://www.sitebuilderreport.com/stock-up
+Awesome royality free picture search engine: http://www.sitebuilderreport.com/stock-up

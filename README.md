@@ -1,10 +1,49 @@
-# The Unfair Advantage (Pre)Launch List
+#Fancy Project Playbook
+These are some documents that we use at Fancy Ventures to quickly start, develop & market a new project.
 
-This is "The Unfair Advantage (Pre)Launch List" for entrepreneurs and startups. Develop and Launch your product / service the right way with this list of useful links and hopefully create the next unicorn. Now including some fancy growth hacking resources, too!
+## Team communication
+[Slack](slack.com) with following extensions
+- Github: https://slack.com/apps/A0F7YS2SX-github
+- Google Analytics stats: https://slack.com/apps/A0G0Q15F1-arc
+- Mailchimp: https://slack.com/apps/A0F82E726-mailchimp
+- New Relic: https://slack.com/apps/A0F827KK2-new-relic
+- Twitter: https://slack.com/apps/A0F7XDW93-twitter
 
-I hope it will save you some hours of research for your next startup and launch. Feel free to contribute to this list.
+## Customer support
+- Talk with visitors on your website
+  - https://chatra.io
 
-**Note:** The majority (99%) of these resources are free to use. I will mark payed resources (like some books) with this **($)** symbol.
+## Knowledge Management
+Write every process you learned/developed down if it´s like that someone has to repeat these steps.
+- https://getguru.com offers a nice web app and browser extension to easly access and manage knowledge
 
-## What did you build with this list?
-I´ll use this exact list for my projects, so expect frequent updates. I hope this list will make your journey more easy. If you build something cool with the help of this list, feel free to contribute or contact me via [Twitter](https://twitter.com/justawebguyand) and I will include you here!
+## TODO tools
+We use [Trello](https://trello.com) with these (default) boards
+- Today
+- Priority 3
+- Priority 2
+- Priority 1
+- Uncategorized (everything that is new gets in here and will be sorted later)
+
+## Development
+- General:
+  - Version controll (Git): github.com
+    - with https://github.com/nvie/gitflow
+  - Server hosting: heroku.com
+  - Server monitoring: https://newrelic.com/
+  - Website analytics: https://analytics.google.com/analytics/web/
+- Websites
+  - Static: https://jekyllrb.com/
+- APIs
+  - Ruby on Rails: https://github.com/rails-api/rails-api (boilerplate comming soon)
+- Web Apps
+  - React Apps: https://github.com/mklb/react-webpack-babel-scss
+- Mobile Apps
+  - Android & iOS Apps: https://facebook.github.io/react-native/
+  - iOS Apps: Objective-C
+
+## Marketing
+see `marketing.md` and `creative_resources.md`
+
+## Free Business Bank Account
+- holvi.com
