@@ -8,10 +8,11 @@ These are some documents that we use at Fancy Ventures to quickly start, develop
 - Mailchimp: https://slack.com/apps/A0F82E726-mailchimp
 - New Relic: https://slack.com/apps/A0F827KK2-new-relic
 - Twitter: https://slack.com/apps/A0F7XDW93-twitter
+- Smooch (See customer support)
 
 ## Customer support
-- Talk with visitors on your website
-  - https://chatra.io
+- Best solution we found so far: [Smooch](https://smooch.io)! Connect FB Messenger, web chat, email etc with Slack
+- (Just) Talk with visitors on your website: https://chatra.io
 
 ## Knowledge Management
 Write every process you learned/developed down if it´s like that someone has to repeat these steps.
