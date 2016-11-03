@@ -2,7 +2,7 @@
 These are some documents that we use at Fancy Ventures to quickly start, develop & market a new project.
 
 ## Team communication
-We use[Slack](slack.com) with following extensions. All bots are pushing messages in our #notifications channel so all other channels don´t get distracted.
+We use [Slack](slack.com) with following extensions. All bots are pushing messages in our #notifications channel so all other channels don´t get distracted.
 
 - Github: https://slack.com/apps/A0F7YS2SX-github
 - Google Analytics stats: https://slack.com/apps/A0G0Q15F1-arc
@@ -27,9 +27,7 @@ We use [Toggl](https://toggl.com/) which is free for teams up to 5 people. It ha
 ## TODO tools
 We use [Trello](https://trello.com) with these (default) boards and a [Toggle integration](https://toggl.com/trello-time-tracking)
 - "New -> Uncategorized": for new incomming, unsorted tasks
-- Timeline: working packages as single cards with sub checklists
-- Priority 2
-- Priority 1
+- Timeline: working packages for each new update/mile stone as single cards with sub checklists
 
 ## Development
 - General:
