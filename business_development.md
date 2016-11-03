@@ -20,5 +20,8 @@ Find the perfect domain name:
 - https://www.kickstarter.com/
 - https://www.indiegogo.com 
 
+## Free Business Bank Account
+- holvi.com
+
 ## Usefull articles
 - Get your pricing right: http://www.nickkolenda.com/psychological-pricing-strategies/

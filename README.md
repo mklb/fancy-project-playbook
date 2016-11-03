@@ -2,13 +2,16 @@
 These are some documents that we use at Fancy Ventures to quickly start, develop & market a new project.
 
 ## Team communication
-[Slack](slack.com) with following extensions
+We use[Slack](slack.com) with following extensions. All bots are pushing messages in our #notifications channel so all other channels don´t get distracted.
+
 - Github: https://slack.com/apps/A0F7YS2SX-github
 - Google Analytics stats: https://slack.com/apps/A0G0Q15F1-arc
 - Mailchimp: https://slack.com/apps/A0F82E726-mailchimp
 - New Relic: https://slack.com/apps/A0F827KK2-new-relic
 - Twitter: https://slack.com/apps/A0F7XDW93-twitter
 - Smooch (See customer support)
+- For our own services (ruby): https://github.com/mklb/how-to-post-to-slack-ruby
+- For new time logging events with toggl: https://zapier.com/zapbook/slack/toggl/
 
 ## Customer support
 - Best solution we found so far: [Smooch](https://smooch.io)! Connect FB Messenger, web chat, email etc with Slack
@@ -18,13 +21,15 @@ These are some documents that we use at Fancy Ventures to quickly start, develop
 Write every process you learned/developed down if it´s like that someone has to repeat these steps.
 - https://getguru.com offers a nice web app and browser extension to easly access and manage knowledge
 
+## Timetracking
+We use [Toggl](https://toggl.com/) which is free for teams up to 5 people. It has a web version, mobile apps and a Trello/Chrome extension
+
 ## TODO tools
-We use [Trello](https://trello.com) with these (default) boards
-- Today
-- Priority 3
+We use [Trello](https://trello.com) with these (default) boards and a [Toggle integration](https://toggl.com/trello-time-tracking)
+- "New -> Uncategorized": for new incomming, unsorted tasks
+- Timeline: working packages as single cards with sub checklists
 - Priority 2
 - Priority 1
-- Uncategorized (everything that is new gets in here and will be sorted later)
 
 ## Development
 - General:
@@ -45,6 +50,3 @@ We use [Trello](https://trello.com) with these (default) boards
 
 ## Marketing
 see `marketing.md` and `creative_resources.md`
-
-## Free Business Bank Account
-- holvi.com
