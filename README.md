@@ -30,21 +30,23 @@ We use [Trello](https://trello.com) with these (default) boards and a [Toggle in
 - Timeline: working packages for each new update/mile stone as single cards with sub checklists
 
 ## Development
-- General:
-  - Version controll (Git): github.com
-    - with https://github.com/nvie/gitflow
-  - Server hosting: heroku.com
-  - Server monitoring: https://newrelic.com/
-  - Website analytics: https://analytics.google.com/analytics/web/
-- Websites
-  - Static: https://jekyllrb.com/
+For Version control we use Git with github.com and with Git Flow as a branching model: https://github.com/nvie/gitflow
+
 - APIs
   - Ruby on Rails: https://github.com/rails-api/rails-api (boilerplate comming soon)
-- Web Apps
-  - React Apps: https://github.com/mklb/react-webpack-babel-scss
+  - Hosting: https://dashboard.heroku.com/
+- Websites
+  - Web App: We use React Apps with the following bootstrap code https://github.com/mklb/react-webpack-babel-scss
+  - Static / Blogs: We love ruby, this is why we use https://jekyllrb.com/
+  - Hosting: https://www.digitalocean.com/
 - Mobile Apps
   - Android & iOS Apps: https://facebook.github.io/react-native/
   - iOS Apps: Objective-C
+
+## Analytics
+- Mobile: https://fabric.io
+- Web: https://analytics.google.com/
+- Server: https://newrelic.com/
 
 ## Marketing
 see `marketing.md` and `creative_resources.md`
